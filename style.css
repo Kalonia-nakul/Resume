@@ -60,7 +60,7 @@ a:hover{text-decoration:underline}
   border:1px solid #f1ece6;
 }
 .profile-pic{
-  width:110px;height:110px;border-radius:50%;object-fit:cover;border:4px solid var(--border);display:block;margin:0 auto 10px;
+  width:150px;height:150px;border-radius:50%;object-fit:cover;border:4px solid var(--border);display:block;margin:0 auto 10px;
 }
 .role{margin:0;font-size:13px;color:var(--muted)}
 
@@ -119,3 +119,4 @@ a:hover{text-decoration:underline}
   .center-col{order:0}
   .profile-pic{width:96px;height:96px}
 }
+
